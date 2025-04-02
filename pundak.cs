@@ -9,5 +9,6 @@ namespace cobaocoba_aja
     internal class pundak
     {
         string lututkaki;
+        string lututs;
     }
 }

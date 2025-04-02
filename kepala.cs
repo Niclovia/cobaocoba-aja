@@ -9,5 +9,6 @@ namespace cobaocoba_aja
     internal class kepala
     {
         string rambut;
+        string ubun;
     }
 }
