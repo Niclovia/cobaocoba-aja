@@ -19,7 +19,7 @@ namespace cobaocoba_aja
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.WriteLine("Isa cuy");
+            Console.WriteLine("Isa cuy wkwkwk hahaha");
         }
     }
 }
